@@ -10,3 +10,5 @@ I’m a software engineer who loves solving problems with computers.
 
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendon)](https://github.com/rendon/github-readme-stats)
+
+[![Rafael's LeetCode stats](https://leetcard.jacoblin.cool/rendon)](https://leetcode.com/rendon)
